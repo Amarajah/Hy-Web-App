@@ -1,0 +1,23 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Hy!</title>
+  <link rel="icon" href="{% static 'chat.png' %}" type="image/x-icon">
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+  <script src="{% static 'script.js' %}" type="text/javascript"></script>
+  <body>
+    <div class="intro">
+        <h1>Hy!</h1>
+        <h2>Experience the future of communication with our revolutionary video conferencing app.</h2>
+        <!-- create a signup and signin button-->
+        <a href="{% url 'login' %}" class="button">Sign In</a>
+        <a href="{% url 'register' %}" class="button">Sign Up</a>
+    </div>
+  </body>
+</head>
+</html>

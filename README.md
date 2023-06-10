@@ -8,3 +8,6 @@
 <p>In conclusion, Hy! is not just another video conference app – it's a game-changer for remote communication. With its user-friendly interface, exceptional video and audio quality, easy collaboration tools, privacy and security measures, flexible accessibility, seamless integration, and dedicated customer support, Hy! is the ideal choice for individuals, businesses, and organizations looking for effective and efficient remote collaboration.</p>
 
 Try Hy! today and experience the future of video conferencing for yourself.
+
+Click here to try the Hy! app today; https://hyapp.pythonanywhere.com
+Click here to read our blog post on linkedin; 

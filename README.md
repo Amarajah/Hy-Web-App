@@ -10,4 +10,4 @@
 Try Hy! today and experience the future of video conferencing for yourself.
 
 Click here to try the Hy! app today; https://hyapp.pythonanywhere.com
-Click here to read our blog post on linkedin; 
+Click here to read our blog post on linkedin;  https://www.linkedin.com/posts/ibe-naomi_so-at-school-few-weeks-ago-we-were-all-required-activity-7073983981225975808-5iJE?utm_source=share&utm_medium=member_desktop
